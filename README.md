@@ -1,7 +1,7 @@
 
-# Project Title
+# weatherio
 
-A brief description of what this project does and who it's for
+I am DevNamedFran3x, and I worked on this project called Weatherio. I would also like to give credit to the original creator who made the foundation of this project.
 
 ## Tech Stack
 
@@ -9,13 +9,13 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
+![Weather App Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN4OTExenRqcmFkbWIyb2Z5YnBrOGY2NnJlbmVxNGZja2s2ZG1vbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRsbyaGN8Fwrx9qLTn/giphy.gif)
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Current Location
+- Check many location's weathers
+- Can check the weather in different times
 
 ## Screenshots
 
@@ -50,12 +50,28 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@devnamedfranz3x] [credits to: codewithsadee]
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT] (MIT License
 
-## Support
+Copyright (c) [2026] [Deej Karlos C. Estabillo]
 
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.)
